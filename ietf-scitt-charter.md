@@ -24,8 +24,10 @@ The working group will develop standards supporting interoperable supply chain b
 
 3. Standardize the Transparent Registry requirements to generate homogenity across multiple supply chains
 
-4. Supply Chain Receipts
+4. Supply Chain Receipts : TO DO
 
-5. Supply Chain Auditor
+5. Supply Chain Auditor: TO DO
 
-6. Notary
+6. Notary: TO DO
+
+7. Standardize external API provided to various actors to interact with the Supply Chain Ecosystem. Also standardize inter-component messages between supply chain building blocks.
