@@ -3,8 +3,14 @@ Introduction
 Over the years rapid technological advancements have motivated organizations to implement efficient processes from design to manufacturing, logisitics and just-in time delivery. While these improvements help organizations increase efficiency and swiftly bring innovations to market, the rapid increase in scale, size and complexity of supply chain have led to more and more sophisticated supply chain attacks. The traditional methods of safeguarding the supply chain (e.g. pre and post audit
 methodologies) is no longer adequate.
 
-A minimally, simple and concise set of building blocks could guarantee a long term accountability and inter-operability for supply chain components and their metadata
-through their life-cycles across architecturally diverse systems.
+Core Problem
+============
+Here are the fundamental issues that face the supply chain ecosystem today:
+1. Lack of forensically ready and persistent supply/value chain data needed to automate the system.
+2. Absence of decentralized globally inter-operable transparency services 
+3. Insufficient standards for independently verifying the presence of supply chain data in tamper proof data stores
+
+A minimally, simple and concise set of building blocks could guarantee a long term accountability and inter-operability for supply chain components and their metadata through their life-cycles across architecturally diverse systems.
 
 Goals
 =====
