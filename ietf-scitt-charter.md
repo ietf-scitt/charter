@@ -5,7 +5,9 @@ methodologies) is no longer adequate.
 
 Problem Statement
 =================
-Here are the fundamental security issues that face the supply chain ecosystem today:
+It is difficult to manage the compliance of products across end-to-end, global supply chains. 
+
+Some of the fundamental security issues that face the supply chain ecosystem today are as follows:
 1. A single product is composed of multiple sub-products coming from different suppliers. There is no agreed upon standard to compose information from different producers
 2. No APIs defined for automated publishing, retrieval or independent verification of the information above.
 3. Absence of decentralized globally inter-operable transparency services to publish the supply chain data in a transparent manner
