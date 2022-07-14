@@ -38,19 +38,44 @@ The WG does not:
 
 Program of Work
 ===============
-The working group will develop standards supporting interoperable supply chain building blocks.
-The main deliverables are as follows:
 
-1. The WG will select (and potentially profile or augment) acceptable common identity format/formats that shall be used in the SCITT ecosystem. This will enable interoperability across geographical regions and also trace the identity chain seamlessly when a product comprises of multiple sub-products from multiple issuers. This includes a model of essential actors, such as the supply chain "issuer" (one which generates supply chain artifacts), and their duties in the ecosystem.
+## Actors, Interactions, Terminology ("Architecture")
 
-2. The WG will define the envelope and common schema for carrying supply chain claims/endorsements.
+The WG will start out by documenting and defining terms for essential classes of actors, such as the supply chain "issuer" (one which generates supply chain artifacts), the basic interactions these have with other actors, and their duties in the ecosystem.
 
-3. The WG will standardize the Transparent Registry requirements to generate homogeneity across multiple supply chains.
+The WG will select (and potentially profile or augment) acceptable common **identity format/formats** that shall be used to identify and authenticate actors in the SCITT ecosystem. ~~This will enable interoperability across geographical regions and also trace the identity chain seamlessly when a product comprises of multiple sub-products from multiple issuers. ~~
 
-4. A standard format for authenticity data returned from the transparent registry, such as proof, etc. The standard will enable independent verification of supply chain claims at a (much) later point on multiple platforms across multiple geographical locations.
+## Information Sets
 
-5. The WG will develop standards for auditing the supply chain claims that are introduced in the transparent registry. This will, in turn, generate audit claims (results of the audit) which can be introduced in the same registry. Audit information can be queried by supply chain consumers (end customers) before making critical business decisions.
+* Data at rest/prerequisites
+    * representable via a combination of SCITT messages
+    * external beliefs
+* Interactions/data in motion: The WG will define the envelope and common schema for carrying supply chain claims/endorsements.  How do messages compose in order to generate meaningful beliefs?
 
-6. The WG will develop standards that define the notarization process and outline the core functions/actions that a notary will perform in the supply chain ecosystem.
+### Versatile Countersigning Format in Support of Transparency Services
 
-7. Standardize request-response interactions ("external API") and potentially other interaction models provided to various actors to interact with the supply chain ecosystem. This includes standardizing inter-component messages between supply chain building blocks to support easy reference implementations of SCITT building blocks by various organizations and easy industry-wide adaptation.
+A standard format for authenticity data returned from the transparent registry, such as proof, etc. The standard will enable independent verification of supply chain claims at a (much) later point on multiple platforms across multiple geographical locations.
+
+## Interaction Set: Registries
+
+The WG will define an **Abstract Transparent Registry** that describes the interactions that will and can be provided by registries to generate homogeneity across multiple supply chains.
+
+## Interaction Set: Auditing
+
+The WG will develop standards for auditing the supply chain claims that are introduced in the transparent registry. This will, in turn, generate audit claims (results of the audit) which can be introduced in the same registry. Audit information can be queried by supply chain consumers (end customers) before making critical business decisions.
+
+## Interaction Set: Notarization
+
+The WG will develop standards that define the notarization process and outline the core functions/actions that a notary will perform in the supply chain ecosystem.
+
+## Mapping the Interaction Sets to HTTP/REST
+
+Standardize request-response interactions ("external API") and potentially other interaction models provided to various actors to interact with the supply chain ecosystem. This includes standardizing inter-component messages between supply chain building blocks to support easy reference implementations of SCITT building blocks by various organizations and easy industry-wide adaptation.
+
+Milestones
+==========
+* Information Models for Identities and Actors
+* Interaction Models for Security and Data Flows
+* Architecture for Model Composition
+* Profiling a Signing Format for Claim Issuance
+* Countersigning Format for Claim Registration
