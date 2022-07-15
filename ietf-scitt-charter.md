@@ -50,7 +50,7 @@ The WG shall start out by documenting and defining terms in an architectural mod
 
 The architectural model shall provide an aggregated overview of corresponding actor-specific information models and interaction models and will provide examples of composition patterns that illustrate how to addresss a concise set of use cases.
 
-## Establish consistent Identity Format for Actors
+## Consistent Actor Identification
 
 The WG shall select (and potentially profile) acceptable common identity format/formats that will be used to identify and authenticate various actors in the SCITT ecosystem.
 
