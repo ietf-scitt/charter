@@ -45,18 +45,18 @@ The main deliverables defined by this program of work provide a guideline for mi
 
 The WG shall start out by documenting and defining terms in an architectural model for:
 
-1. essential classes of actors, such as the supply chain "issuer" (one which generates supply chain artifacts and statements about them) and
+1. essential actors, such as the supply chain "issuer" (one which generates supply chain artifacts and statements about them) and
 2. the basic interactions these have with other actors, and their duties in the ecosystem.
 
 The architectural model shall provide an aggregated overview of corresponding actor-specific information models and interaction models and will provide examples of composition patterns that illustrate how to addresss a concise set of use cases.
 
-## Consistent Actor Identification
+## Establish consistent Identity Format for Actors
 
-The WG shall select (and potentially profile) acceptable common identity format/formats that will be used to identify and authenticate actors in the SCITT ecosystem.
+The WG shall select (and potentially profile) acceptable common identity format/formats that will be used to identify and authenticate various actors in the SCITT ecosystem.
 
 ## Information Models and Interaction Models for:
 
-1. Registry: The WG shall define an Abstract Transparent Registry, describing the interactions and conceptual messages that will and can be supported by registries to generate homogeneity across multiple supply chains.
+1. Registry: The WG shall define an Abstract Transparent Registry and also define the interactions and conceptual messages that will be supported by registries with an aim to generate homogeneity across multiple supply chains.
 
 2. Notarization: The WG shall develop a specification that describes the notarization information model and the interaction model a notary will use to interact with supply chain entities.
 
@@ -64,7 +64,7 @@ The WG shall select (and potentially profile) acceptable common identity format/
 
 ## Versatile Countersigning Format in Support of Transparency Services
 
-The WG shall specify a standard format for authenticity data based on the information models defined by the WG returned from the transparent registry, such as proofs, etc. The standard shall enable independent verification of supply chain claims at a (much) later point on multiple platforms across multiple geographical locations.
+The WG shall specify a standard format for authenticity data returned from the transparent registry such as proofs, etc. The standard shall enable independent verification of supply chain claims at a (much) later point on multiple platforms across multiple geographical locations.
 
 ## Generic Protocol Bindings for Information Model and Interaction Models
 
@@ -72,7 +72,7 @@ The WG shall standardize request-response interactions ("external API") and pote
 
 Milestones
 ==========
-* Information models for information and interaction models
-* Architecture defining actor and model composition based on use-cases
-* Profiling a Signing Format for Claim Issuance
+* Architecture and Terminology
+* Information and Interaction Models
 * Countersigning Format for Claim Registration
+* HTTP-based REST API for Request-Response Interactions
