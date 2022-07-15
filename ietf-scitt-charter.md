@@ -39,16 +39,16 @@ The WG does not:
 Program of Work
 ===============
 
-The main deliverables defined by this program of work provide a guideline for milestones that are in scope of the WG charter. Documents produced by the WG will address one or more of the following main deliverables:
+The main deliverables defined by this program of work provide a guideline for milestones that are in scope of the WG charter. Documents produced by the working group will address one or more of the the following main deliverables:
 
 ## Architectural Model: Actors, Interactions, Terminology
 
 The WG shall start out by documenting and defining terms in an architectural model for:
 
-1. essential classes of actors such as the supply chain "issuer" (one which generates supply chain artifacts and statements about them) and
+1. essential classes of actors, such as the supply chain "issuer" (one which generates supply chain artifacts and statements about them) and
 2. the basic interactions these have with other actors, and their duties in the ecosystem.
 
-The architectural model shall provide an aggregated overview of corresponding actor-specific information models and interaction models and will provide examples of composition patterns that illustrate how to address a concise set of use cases.
+The architectural model shall provide an aggregated overview of corresponding actor-specific information models and interaction models and will provide examples of composition patterns that illustrate how to addresss a concise set of use cases.
 
 ## Consistent Actor Identification
 
@@ -56,7 +56,7 @@ The WG shall select (and potentially profile) acceptable common identity format/
 
 ## Information Models and Interaction Models for:
 
-1. Registry: The WG shall define an Abstract Transparent Registry that describes the interactions and conceptual messages that will and can be supported by registries to generate homogeneity across multiple supply chains.
+1. Registry: The WG shall define an Abstract Transparent Registry, describing the interactions and conceptual messages that will and can be supported by registries to generate homogeneity across multiple supply chains.
 
 2. Notarization: The WG shall develop a specification that describes the notarization information model and the interaction model a notary will use to interact with supply chain entities.
 
@@ -72,8 +72,7 @@ The WG shall standardize request-response interactions ("external API") and pote
 
 Milestones
 ==========
-* Information Models for Identities and Actors
-* Interaction Models for Security and Data Flows
-* Architecture for Model Composition
+* Information models for information and interaction models
+* Architecture defining actor and model composition based on use-cases
 * Profiling a Signing Format for Claim Issuance
 * Countersigning Format for Claim Registration
