@@ -74,8 +74,7 @@ Standardize request-response interactions ("external API") and potentially other
 
 Milestones
 ==========
-* Information Models for Identities and Actors
-* Interaction Models for Security and Data Flows
-* Architecture for Model Composition
-* Profiling a Signing Format for Claim Issuance
+* Architecture and Terminology
+* Information and Interaction Models
 * Countersigning Format for Claim Registration
+* HTTP-based REST API for Request-Response Interactions 
