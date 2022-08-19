@@ -41,7 +41,7 @@ The WG does not:
 Program of Work
 ===============
 
-The main deliverables defined by this program of work provide a guideline for milestones that are in scope of the WG charter. Documents produced by the working group will address one or more of the the following main deliverables:
+The main deliverables defined by this program of work provide a guideline for milestones that are in scope of the WG charter. Documents produced by the working group will address one or more of the following main deliverables:
 
 ## Architectural Model: Actors, Interactions, Terminology
 
@@ -50,7 +50,9 @@ The WG shall start out by documenting and defining terms in an architectural mod
 1. essential actors, such as the supply chain "issuer" (one which generates supply chain artifacts and statements about them) and
 2. the basic interactions these have with other actors, and their duties in the ecosystem.
 
-The architectural model shall provide an aggregated overview of corresponding actor-specific information models and interaction models and will provide examples of composition patterns that illustrate how to addresss a concise set of use cases.
+The architectural model shall provide an aggregated overview of corresponding actor-specific information models and interaction models and will provide examples of composition patterns that illustrate how to address a concise set of use cases.
+
+The architectural model shall include an abstract threat model that minimally encompasses the initial use cases and will be based on a set of to be defined security objectives.
 
 ## Consistent Actor Identification
 
