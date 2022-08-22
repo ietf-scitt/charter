@@ -79,6 +79,7 @@ The WG shall standardize request-response interactions ("external API") and pote
 Milestones
 ==========
 * Architecture and Terminology
+* Use Cases, Security Objectives, and concise Threat Model
 * Information and Interaction Models
 * Countersigning Format for Claim Registration
 * HTTP-based REST API for Request-Response Interactions
