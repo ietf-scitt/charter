@@ -34,7 +34,7 @@ The WG does not:
 2. establish a universal/centralized registry for supply chain data,
 3. try to prevent supply chain issuers from making false claims,
 4. define specific implementation guidance on storage, query, or retrieval of supply chain statements, or
-5. select a specific Bill of Materials (BOM) formats and metadata headers.
+5. select specific Bill of Materials (BOM) formats and metadata headers.
 
 Program of Work
 ===============
