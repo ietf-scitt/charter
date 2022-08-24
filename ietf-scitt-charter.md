@@ -24,7 +24,7 @@ Goals
 Based on an input document on the architecture (draft-birkholz-scitt-architecture-00), the WG will:
 
 1. Standardize the overall technical security flows for securing a software supply chain, which also includes firmware, and covering the essential building blocks that make up the architecture.
-2. specify these building blocks, employing the existing work already done within
+2. In addition to this, the WG shall employ the existing work already done within
     - other IETF WGs such as COSE WG, and IETF RATS WG, as appropriate, as well as
     - in coordination with other bodies, such as OpenSSF or the Trusted Computing Group.
 
