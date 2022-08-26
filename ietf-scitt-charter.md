@@ -58,7 +58,7 @@ The architectural model shall include an abstract threat model that minimally en
 
 ## Consistent Actor Identification
 
-The WG shall select (and potentially profile) acceptable common identity format/formats that will be used to identify and authenticate various actors in the SCITT ecosystem.
+The WG shall select (and potentially profile) acceptable common identity format/formats that will be used to identify and authenticate various actors in the SCITT ecosystem. The WG shall create guidance on how to create and manage new identity documents, their trust anchors, and corresponding security considerations in the context of supply chains.
 
 ## Information Models and Interaction Models for:
 
