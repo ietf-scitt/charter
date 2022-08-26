@@ -12,7 +12,7 @@ It is challenging to manage the compliance of products across end-to-end, global
 
 Some of the fundamental security issues that face the supply chain ecosystem today are as follows:
 
-1. A single product is composed of multiple sub-products coming from different suppliers. There is no agreed-upon standard to compose information from different producers.
+1. A single product is composed of multiple sub-products coming from different suppliers. There is no agreed-upon standard to compose information from different producers as every vendor is doing it differently.
 2. There are no APIs defined for automated publishing, retrieval, or independent verification of the information above.
 3. The absence of decentralized, globally interoperable, transparent services to publish the supply chain data.
 4. The lack of sufficient standards for independently verifying the presence of supply chain data in tamper-proof data stores.
