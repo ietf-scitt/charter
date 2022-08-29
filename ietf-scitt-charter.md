@@ -4,7 +4,7 @@ Over the years, rapid technological advancements have motivated organizations to
 While these improvements help organizations increase efficiency and swiftly bring innovations to market, the rapid increase in scale, size, and complexity of supply chains has led to more frequent and sophisticated supply chain attacks.
 The traditional methods of safeguarding supply chains (e.g., pre- and post-audit methodologies) are no longer adequate.
 
-Scitt forms a building block that will allow implemeters to compose complex supply chain integrity systems. For example, public computer interface system could report its software composition and that can be compared against known software compositions for such a device, recorded in a public ledger, thus providing an individual using the system with confidence that it will behave as expected, when expected, and nothing/nowhen else.
+The output of the SCITT WG is a set of standards that define the essential building blocks enabling the security of supply chain systems and assisting implementers in securing deployments. For example, a public computer interface system could report its software composition, which can be compared against known software compositions for such a device, as recorded in a public append-only transparent registry. Therefore, providing an individual using the system with confidence that it will behave as and when expected and will do nothing else.
 
 Problem Statement
 =================
