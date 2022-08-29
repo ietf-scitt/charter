@@ -4,7 +4,9 @@ A Device's supply chain, including its components, is complex often being compri
 
 [//]: # (MW: The previous introduction sounded like this is a new problem -- it isn't. It's only recently gained importance and recognition due to the increase in interconnected devices. If we are going to cite a rationale to dealing with this now it is the complex supply chain from various commonly used and complexity of component distribution and their diverse sources.)
 
-Scitt forms a set of building block that will allow implemeters to build interoperable supply chain integrity systems. For example, public computer interface system could report its software composition that can be compared against known software compositions for such a device providing an individual using the system confidence that it will behave as expected, when expected, and nothing/nowhen else.
+The output of the SCITT WG is a set of standards that define the essential building blocks enabling the security of supply chain systems and assisting implementers in securing deployments.
+For example, a public computer interface system could report its software composition, which can be compared against known software compositions for such a device, as recorded in a public append-only transparent registry.
+Therefore, providing an individual using the system with confidence that it will behave as and when expected, consistently and without deviation.
 
 [//]: # (MW: "recorded in a public ledger, " I thought that is too implementation specific for an introduction)
 [//]: # (MW: Does "nowhen" belong here?)
@@ -45,8 +47,8 @@ The WG does not:
 1. make recommendations or suggestions on best practices on how to design the supply chain,
 2. establish a universal/centralized registry for supply chain data,
 3. define methods to prevent supply chain issuers from making false claims,
-4. define specific implementation guidance on storage, query, or retrieval of supply chain statements, or
-5. select a specific Bill of Materials (BOM) formats and metadata headers.
+3. try to prevent supply chain issuers from making false claims,
+4. define data formats for payload content, such as Bills of Materials data formats
 
 [//]: # (Bill of Materials \(BOM\): We don't define this term prior to use. I like including this term, shouldn't we define it as a component of the supply chain)
 
@@ -88,7 +90,7 @@ The WG shall specify a standard format for authenticity data returned from the t
 
 ## Generic Protocol Bindings for Information Model and Interaction Models
 
-The WG shall standardize request-response interactions ("external API") and potentially other generic interaction schemes provided to various actors to interact with the supply chain ecosystem. This includes standardizing inter-component messages (based on the interaction models) between supply chain actors to support common reference implementations of SCITT building blocks by various organizations to expedite industry-wide adaptation.
+The WG shall standardize request-response interactions ("external API") and potentially other generic interaction schemes provided to various actors to interact with the supply chain ecosystem. This includes standardizing inter-component messages (based on the interaction models) and payload serialization between supply chain actors to support common reference implementations of SCITT building blocks by various organizations to expedite industry-wide adaptation.
 
 Milestones
 ==========
