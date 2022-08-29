@@ -38,8 +38,7 @@ The WG does not:
 1. make recommendations or suggestions on best practices on how to design the supply chain,
 2. establish a universal/centralized registry for supply chain data,
 3. try to prevent supply chain issuers from making false claims,
-4. define specific implementation guidance on storage, query, or retrieval of supply chain statements, or
-5. select a specific Bill of Materials (BOM) formats and metadata headers.
+4. define data formats for payload content, such as Bills of Materials data formats
 
 Program of Work
 ===============
@@ -75,7 +74,7 @@ The WG shall specify a standard format for authenticity data returned from the t
 
 ## Generic Protocol Bindings for Information Model and Interaction Models
 
-The WG shall standardize request-response interactions ("external API") and potentially other generic interaction schemes provided to various actors to interact with the supply chain ecosystem. This includes standardizing inter-component messages (based on the interaction models) between supply chain actors to support easy reference implementations of SCITT building blocks by various organizations and easy industry-wide adaptation.
+The WG shall standardize request-response interactions ("external API") and potentially other generic interaction schemes provided to various actors to interact with the supply chain ecosystem. This includes standardizing inter-component messages (based on the interaction models) and payload serialization between supply chain actors to support easy reference implementations of SCITT building blocks by various organizations and easy industry-wide adaptation.
 
 Milestones
 ==========
