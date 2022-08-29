@@ -6,7 +6,7 @@ The traditional methods of safeguarding supply chains (e.g., pre- and post-audit
 
 The output of the SCITT WG is a set of standards that define the essential building blocks enabling the security of supply chain systems and assisting implementers in securing deployments.
 For example, a public computer interface system could report its software composition, which can be compared against known software compositions for such a device, as recorded in a public append-only transparent registry.
-Therefore, providing an individual using the system with confidence that it will behave as and when expected and will do nothing else.
+Therefore, providing an individual using the system with confidence that it will behave as and when expected, consistently and without deviation.
 
 Problem Statement
 =================
