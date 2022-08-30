@@ -29,7 +29,7 @@ Based on an input document on the architecture (draft-birkholz-scitt-architectur
 1. Standardize the overall technical security flows for securing a software supply chain, which also includes firmware, and covering the essential building blocks that make up the architecture.
 2. In addition to this, the WG shall employ the existing work already done within
     - other IETF WGs such as COSE WG, and IETF RATS WG, as appropriate, as well as
-    - in coordination with other bodies, such as the, OpenSSF, W3C, or the Trusted Computing Group.
+    - in coordination with other standards bodies, such as the, OpenSSF, W3C, or the Trusted Computing Group.
 
 The WG may refine the input document on the architecture in the process.
 
