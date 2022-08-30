@@ -51,7 +51,7 @@ The main deliverables defined by this program of work provide a guideline for mi
 
 The WG shall start out by documenting and defining terms in an architectural model for:
 
-1. essential actors, such as the claim's "issuer", "notary", and "consumer" (one which generates supply chain artifacts and statements about them) and
+1. essential actors, such as the claim's "issuer"  (one which generates supply chain artifacts and statements about them), "notary", and "consumer" and
 2. the basic interactions these have with other actors, and their duties in the ecosystem.
 
 The architectural model shall provide an aggregated overview of corresponding actor-specific information models and interaction models and will provide examples of composition patterns that illustrate how to address a concise set of use cases.
