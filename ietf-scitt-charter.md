@@ -5,7 +5,7 @@ A Device's supply chain, including its components, is complex often being compri
 [//]: # (MW: The previous introduction sounded like this is a new problem -- it isn't. It's only recently gained importance and recognition due to the increase in interconnected devices. If we are going to cite a rationale to dealing with this now it is the complex supply chain from various commonly used and complexity of component distribution and their diverse sources.)
 
 The output of the SCITT WG is a set of standards that define the essential building blocks enabling the security of supply chain systems and assisting implementers in securing deployments.
-For example, a public computer interface system could report its software composition, which can be compared against known software compositions for such a device, as recorded in a public append-only transparent registry.
+For example, a public computer interface system could report its software composition, which can be compared against known software compositions for such a device, as recorded in an append-only transparent registry.
 Therefore, providing an individual using the system with confidence that it will behave as and when expected, consistently and without deviation.
 
 [//]: # (MW: "recorded in a public ledger, " I thought that is too implementation specific for an introduction)
