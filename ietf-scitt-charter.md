@@ -43,7 +43,6 @@ The WG does not:
 1. make recommendations or suggestions on best practices on how to design the supply chain,
 2. establish a universal/centralized registry for supply chain data,
 3. define methods to prevent supply chain issuers from making false claims,
-3. try to prevent supply chain issuers from making false claims,
 4. define data formats for payload content, such as Bills of Materials data formats
 
 [//]: # (Bill of Materials \(BOM\): We don't define this term prior to use. I like including this term, shouldn't we define it as a component of the supply chain)
