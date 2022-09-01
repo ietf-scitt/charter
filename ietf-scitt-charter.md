@@ -20,7 +20,6 @@ Some of the fundamental security issues that face the supply chain ecosystem tod
 5. The lack of sufficient standards for independently verifying the presence of supply chain data in tamper-proof data stores.
 6. Software consumers have no trustworthy way to verify that a software signature on a software package is legitimate.
 
-[//]: # (MW: #6 is not true, SWID tags can be signed today.)
 
 A minimal, simple, and concise set of building blocks that interact in a standardized way will provide long-term accountability and interoperability for supply chain components throughout their lifecycles across architecturally diverse systems.
 
