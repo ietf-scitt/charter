@@ -60,7 +60,6 @@ The WG shall start by documenting and defining terms in an architectural model f
 
 The architectural model shall provide an aggregated overview of corresponding actor-specific information models and interaction models. It will provide examples of composition patterns that illustrate how to address a concise set of use cases.
 
-[//]: # (MW: What does "aggregated" add in the above paragraph?)
 
 The architectural model shall include an abstract threat model that minimally encompasses the initial use cases and will be based on a set of to be defined security objectives.
 
