@@ -8,7 +8,6 @@ The output of the SCITT WG is a set of standards that define the essential build
 For example, a public computer interface system could report its software composition, which can be compared against known software compositions for such a device, as recorded in an append-only transparent registry.
 Therefore, providing an individual using the system with confidence that it will behave as and when expected, consistently and without deviation.
 
-[//]: # (MW: "recorded in a public ledger, " I thought that is too implementation specific for an introduction)
 [//]: # (MW: Does "nowhen" belong here?)
 
 Problem Statement
