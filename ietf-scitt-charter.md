@@ -85,4 +85,4 @@ Milestones
 * Use Cases, Security Objectives, and concise Threat Model
 * Information and Interaction Models
 * Countersigning Format for Claim Registration
-* HTTP-based REST API for Request-Response Interactions
+* HTTP-based REST API for Request-Response Interactions including examples as implementation guidance
