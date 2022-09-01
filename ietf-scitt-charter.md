@@ -28,7 +28,6 @@ Goals
 =====
 Based on an input document on the architecture (draft-birkholz-scitt-architecture-00), the WG will:
 
-[//]: # (MW: Seems circular to have within the charter a reference to one of the documents to be produced by the WG)
 
 1. Standardize the technical flows for providing information about a software supply chain, which also includes firmware, and covering the essential building blocks that make up the architecture.
 2. In addition to this, the WG shall employ the existing work already done within
