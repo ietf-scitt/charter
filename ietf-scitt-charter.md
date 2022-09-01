@@ -43,7 +43,6 @@ The WG does not:
 3. define methods to prevent supply chain issuers from making false claims,
 4. define data formats for payload content, such as Bills of Materials data formats
 
-[//]: # (Bill of Materials \(BOM\): We don't define this term prior to use. I like including this term, shouldn't we define it as a component of the supply chain)
 
 Program of Work
 ===============
