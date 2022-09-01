@@ -2,7 +2,6 @@ Introduction
 ============
 A Device's supply chain, including its components, is complex often being comprised of both common libraries and custom components. Knowing the identity of a Device or its component is critical to determining its compliance. However, the scale, size, and complexity of supply chains, from design, manufacturing, logistics, and just-in-time delivery has led to more frequent and sophisticated supply chain attacks. The traditional methods of safeguarding supply chains (e.g., pre- and post-audit methodologies) are no longer adequate, therefore, with the increase in suppliers and increase in the complexity of the various supply chains the means to determine a Device or component's identity requires standardization.
 
-[//]: # (MW: The previous introduction sounded like this is a new problem -- it isn't. It's only recently gained importance and recognition due to the increase in interconnected devices. If we are going to cite a rationale to dealing with this now it is the complex supply chain from various commonly used and complexity of component distribution and their diverse sources.)
 
 The output of the SCITT WG is a set of standards that define the essential building blocks enabling the security of supply chain systems and assisting implementers in securing deployments.
 For example, a public computer interface system could report its software composition, which can be compared against known software compositions for such a device, as recorded in an append-only transparent registry.
