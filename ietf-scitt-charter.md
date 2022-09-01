@@ -77,7 +77,7 @@ The WG shall specify a standard format for authenticity data returned from the t
 
 ## Generic Protocol Bindings for Information Model and Interaction Models
 
-The WG shall standardize request-response interactions ("external API") and potentially other generic interaction schemes provided to various actors to interact with the supply chain ecosystem. This includes standardizing inter-component messages (based on the interaction models) and payload serialization between supply chain actors to support easy reference implementations of SCITT building blocks by various organizations and easy industry-wide adaptation.
+The WG shall standardize request-response interactions ("external API") and potentially other generic interaction schemes provided to various  external entities to interact with the supply chain ecosystem. This includes standardizing inter-component messages (based on the interaction models) and payload serialization between supply chain actors to support easy reference implementations of SCITT building blocks by various organizations and easy industry-wide adaptation.
 
 Milestones
 ==========
