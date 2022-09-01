@@ -75,4 +75,4 @@ Milestones
 * Architecture and Terminology
 * Information and Interaction Models
 * Countersigning Format for Claim Registration
-* HTTP-based REST API for Request-Response Interactions including a critical mass of examples as implementation guidance
+* HTTP-based REST API for Request-Response Interactions including examples as implementation guidance
