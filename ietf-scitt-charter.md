@@ -40,7 +40,7 @@ The WG does not:
 
 1. make recommendations or suggestions on best practices on how to design the supply chain,
 2. establish a universal/centralized registry for supply chain data,
-3. define methods to prevent supply chain issuers from making false claims,
+3. define methods to prevent authenticated supply chain issuers from making false claims,
 4. define data formats for payload content, such as Bills of Materials data formats
 
 
