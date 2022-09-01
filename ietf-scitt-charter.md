@@ -4,7 +4,6 @@ Over the years, rapid technological advancements have motivated organizations to
 While these improvements help organizations increase efficiency and swiftly bring innovations to market, the rapid increase in scale, size, and complexity of supply chains has led to more frequent and sophisticated supply chain attacks.
 The traditional methods of safeguarding supply chains (e.g., pre- and post-audit methodologies) are no longer adequate.
 
-
 The output of the SCITT WG is a set of standards that define the essential building blocks enabling the security of supply chain systems and assisting implementers in securing deployments.
 For example, a public computer interface system could report its software composition, which can be compared against known software compositions for such a device, as recorded in an append-only transparent registry.
 Therefore, providing an individual using the system with confidence that it will behave as and when expected, consistently and without deviation.
