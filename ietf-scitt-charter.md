@@ -10,7 +10,7 @@ Therefore, providing an individual using the system with confidence that it will
 
 Problem Statement
 =================
-It is challenging to manage the compliance of products across end-to-end, global supply chains. 
+It is challenging to manage the conformance of products across end-to-end, global supply chains. 
 
 Some of the fundamental security issues that face the supply chain ecosystem today are as follows:
 
