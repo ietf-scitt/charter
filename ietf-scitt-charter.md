@@ -15,7 +15,7 @@ Some of the fundamental security issues that face the supply chain ecosystem tod
 
 1. A single product is composed of multiple sub-products coming from different suppliers. There are several standards to compose supply chain information with different producers choosing different methods.
 2. There are no uniform APIs or services to publish supply chain information to third parties, nor are there ways to verify the integrity or date of publication of that information.
-3. The absence of decentralized, globally interoperable, transparent services to publish the supply chain data.
+3. There is a lack of decentralized, globally interoperable, transparent services to publish supply chain data.
 4. The lack of sufficient standards for independently verifying the presence of supply chain data in tamper-proof data stores.
 5. Fractured verification methodologies across software distribution ecosystems create inconsistent security guarantees for end users.
 6. Software consumers have no trustworthy way to verify that a software signature on a software package is legitimate.
