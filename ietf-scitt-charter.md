@@ -1,7 +1,7 @@
 Introduction
 ============
 Over the years, rapid technological advancements have motivated organizations to implement efficient processes for supply chains (i.e., from design to manufacturing, logistics, and just-in-time delivery).
-While these improvements help organizations increase efficiency and swiftly bring innovations to market, the rapid increase in scale, size, and complexity of supply chains has led to more frequent and sophisticated supply chain attacks.
+While these improvements help organizations increase efficiency and swiftly bring innovations to market, the rapid increase in scale, size, and complexity of supply chains has led to more frequent and more sophisticated supply chain attacks.
 The traditional methods of safeguarding supply chains (e.g., pre- and post-audit methodologies) are no longer adequate.
 
 The Supply Chain Integrity, Transparency, and Trust (SCITT) work forms a set of interoperable building blocks that will allow implementers to build integrity and accountability into supply chain systems to help assure trustworthy operation.
@@ -9,14 +9,14 @@ For example, a public computer interface system could report its software compos
 
 Problem Statement
 =================
-It is challenging to manage the conformance of products across end-to-end, global supply chains. 
+It is challenging to manage the conformance of products across end-to-end, global supply chains.
 
 Some of the fundamental security issues that face the supply chain ecosystem today are as follows:
 
 1. A single product is composed of multiple sub-products coming from different suppliers. There are several standards to compose supply chain information with different producers choosing different methods.
 2. There are no uniform APIs or services to publish supply chain information to third parties, nor are there ways to verify the integrity or date of publication of that information.
 3. There is a lack of decentralized, globally interoperable, transparent services to publish supply chain data.
-4. The lack of sufficient standards for independently verifying the presence of supply chain data in tamper-proof data stores.
+4. Available standards are not sufficient for independently verifying the presence of supply chain data in tamper-proof data stores.
 5. Fractured verification methodologies across software distribution ecosystems create inconsistent security guarantees for end users.
 6. Software consumers have no trustworthy way to verify that a software signature on a software package is legitimate.
 
@@ -28,8 +28,8 @@ Based on an input document on the architecture (draft-birkholz-scitt-architectur
 
 1. Standardize the technical flows for providing information about a software supply chain, which also includes firmware, and covering the essential building blocks that make up the architecture.
 2. In addition to this, the WG shall employ the existing work already done within
-    - other IETF WGs such as COSE WG, and IETF RATS WG, as appropriate,
-    - coordination with other standards bodies, such as the, OpenSSF, W3C, ISO, and the Trusted Computing Group.
+    - other IETF WGs such as COSE and RATS, as appropriate,
+    - coordination with other standards bodies, such as OpenSSF, W3C, ISO, and the Trusted Computing Group.
 
 The WG may refine the input document on the architecture in the process.
 
@@ -51,7 +51,7 @@ The main deliverables defined by this program of work provide a guideline for mi
 
 The WG shall start by documenting and defining terms in an architectural model for:
 
-1. essential actors, such as the claim's "issuer"  (one which generates supply chain artifacts and statements about them), "notary", and "consumer" and
+1. essential actors, such as the claim's "issuer" (one which generates supply chain artifacts and statements about them), "notary", and "consumer" and
 2. the basic interactions these have with other actors, and their duties in the ecosystem.
 
 The architectural model shall provide an aggregated overview of corresponding actor-specific information models and interaction models. It will provide examples of composition patterns that illustrate how to address a concise set of use cases.
